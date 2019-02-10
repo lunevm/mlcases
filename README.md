@@ -1,2 +1,2 @@
 # mlcases
-Baselines
+Baselines and templates
